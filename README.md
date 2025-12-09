@@ -40,7 +40,7 @@ Simply download the `index.html` file and open it in any modern web browser (Chr
 Since this is a static site, you can host it anywhere.
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/cruechan/exam-clock.git](https://github.com/cruechan/exam-clock.git)
+   git clone https://github.com/cruechan/exam-clock.git
    ```
 
 2.  Open `index.html`.
@@ -56,5 +56,6 @@ Since this is a static site, you can host it anywhere.
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 -----
+
 
 **Created by [Crue Chan](https://github.com/cruechan)**
